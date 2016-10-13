@@ -1,6 +1,6 @@
 /* Header Alignments need circle*/
 header {
-  background-image: url('http://www.placecage.com/g/1254/335');
+  background-image: url('http://www.placecage.com/c/1500/300');
   height: 335px;
   width: 100%;
 }
@@ -25,6 +25,10 @@ h2 {
   width: 35px;
 }
 
+.first {
+  margin:0;
+  display: block;
+}
 
 
 
@@ -43,7 +47,9 @@ h2 {
 
 
 /*main*/
-
+main {
+  padding: 70px;
+}
 .first{
   display:inline-block;
 }
@@ -79,12 +85,17 @@ aside {
 aside p {
   margin: 10;
 }
+
+.square {
+  width: 250px;
+  height: 250px;
+}
 /*main*/
 
 article {
   float: left;
   width: 78%;
-  margin:
+
 
 }
 
@@ -94,14 +105,17 @@ article {
 
 .ad {
   margin: 0;
-  font-size: 10px;
-  display: block;
   float: right;
+  font-size: 10px;
+  display:
 }
 
-.square {
-  height: 170px;
-  width: 170px;
+article p {
+  margin: 30px;
+}
+
+article img {
+  margin: 30px;
 }
 /*footer*/
 
