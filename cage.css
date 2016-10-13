@@ -1,18 +1,24 @@
 /* Header Alignments need circle*/
 header {
-  background-image: url('http://www.placecage.com/c/1500/300');
+  background-image: url('http://www.placecage.com/g/1254/335');
   height: 335px;
   width: 100%;
 }
 h1 {
-  margin-left:100px;
+  position: absolute;
+  left: 150px;
+  top: 100px;
   color: white;
   font-family: Arial;
   margin-bottom: 0;
+  font-size: 45px;
+
 }
 
 h2 {
-  margin-left: 200px;
+  position:absolute;
+  top: 175px;
+  left: 295px;
   font-size: 11px;
   color: white;
   font-family: Arial;
@@ -30,10 +36,6 @@ h2 {
   display: block;
 }
 
-
-
-
-
 /*nav*/
 
 
@@ -44,6 +46,13 @@ h2 {
    color: #000000;
 }
 
+.nav {
+  display: block;
+  position: absolute;
+  top: 300px;
+  right: 15px;
+
+}
 
 
 /*main*/
