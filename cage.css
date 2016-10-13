@@ -1,1 +1,84 @@
+/* Header Alignments need circle*/
+header {
+  background-image: url('http://www.placecage.com/c/1500/300');
+  height: 335px;
+  width: 100%;
+}
+h1 {
+  margin-left:100px;
+  color: white;
+  font-family: Arial;
+  margin-bottom: 0;
+}
 
+h2 {
+  margin-left: 200px;
+  font-size: 11px;
+  color: white;
+  font-family: Arial;
+  margin-top: 0;
+}
+
+
+
+
+
+
+/*nav*/
+
+
+ nav ul li {
+   display: block;
+   float: right;
+   padding: 10px;
+   color: #000000;
+}
+
+
+
+/*main*/
+
+h3 {
+  margin: 30px;
+  font-size: 20px;
+
+
+}
+}
+
+/*aside*/
+
+
+
+aside {
+  float: right;
+  width: 20%;
+}
+
+article {
+  float: left;
+  width: 78%;
+  margin:
+
+}
+
+/*footer*/
+
+footer {
+ text-align: center;
+ clear: both
+}
+
+.foot {
+  height: 100px;
+  width: 100px;
+  padding: 0;
+  margin: 0;
+}
+
+h4 {
+  text-align: center;
+  color: blue;
+  font-family: monospace;
+  font-size: 30px;
+}
