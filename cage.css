@@ -142,15 +142,15 @@ article img {
 footer {
  text-align: center;
  clear: both;
-
-
-}
+ }
 
 .foot {
   height: 150px;
   width: 150px;
   padding: 0;
   margin: 0;
+  display: inline-block;
+
 }
 
 h4 {
